@@ -1,1 +1,3 @@
-Download the file and unzip it and run the web App
+Download the file.
+Find StorageApp.sln
+Run the file in VS 2022
